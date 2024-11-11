@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @encrypted-oreo
+- 👀 I’m interested in Arduinos
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: e-mail encryptedoreo@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Did you know the moon is 400x smaller than the earth, and the distance to the sun from earth is also 400x the distance from the moon to the earth? This is why we have lunar eclipses.
